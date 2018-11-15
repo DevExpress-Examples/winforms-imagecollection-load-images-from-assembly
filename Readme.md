@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/ClassLibrary1/Class1.cs) (VB: [Class1.vb](./VB/ClassLibrary1/Class1.vb))
+* [Form1.cs](./CS/T183237/Form1.cs) (VB: [Form1.vb](./VB/T183237/Form1.vb))
+* [Program.cs](./CS/T183237/Program.cs) (VB: [Program.vb](./VB/T183237/Program.vb))
+<!-- default file list end -->
 # ImageCollection - How to use images from a solution-wide resource assembly
 
 
