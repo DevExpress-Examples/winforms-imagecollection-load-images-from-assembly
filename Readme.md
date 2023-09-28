@@ -18,8 +18,8 @@ Follow the steps below:
   
   ![WinForms ImageCollection - Use images from a solution-wide resource assembly](https://raw.githubusercontent.com/DevExpress-Examples/imagecollection-how-to-use-images-from-a-solution-wide-resource-assembly-t183237/14.2.3+/media/9ee1568d-8aac-11e4-80ba-00155d624807.png)
 
-* Reference your assembly (`ClassLibrary1`) in you project.
-* Drag the `ImageCollection` component from the Toolbox and drop it to the form.
+* Reference your assembly (`ClassLibrary1`) in the project.
+* Drag the `ImageCollection` component from the Toolbox and drop it onto the form.
 * Invoke a smart tag menu and select **From Referenced Assemblies**.
 
   ![WinForms ImageCollection Smart Tag Menu](https://raw.githubusercontent.com/DevExpress-Examples/imagecollection-how-to-use-images-from-a-solution-wide-resource-assembly-t183237/14.2.3+/media/243ab7dd-8aad-11e4-80ba-00155d624807.png)
